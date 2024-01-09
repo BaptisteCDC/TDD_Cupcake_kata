@@ -1,5 +1,5 @@
 # Introduction 
-This repository contains a TDD Hands On of the algorythme Cupcake
+This repository contains a TDD Hands On of the algorithme Cupcake
 
 # Getting Started
 Go to https://codingdojo.org/kata/cupcake/ to understand the kata
